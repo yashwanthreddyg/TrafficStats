@@ -1,0 +1,3 @@
+.vscode/
+*.pyc
+traffic_config.py
